@@ -16,3 +16,12 @@
 * Using an "@mention" by including someone's name after the "@" symbol will tag them directly
 * GitHub supports emjois and even includes their own cheat sheet - [Link](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+### Profession Competencies
+#### Areas of Strength
+- **Writing** | Ability to sum up complex ideas, problems, or solutions with effective style. Engages and influences the audience with clarity and persuasiveness.
+- **Creative** | Procedurally suggests improvements that could increase the velocity of software delivery. Is open to new ideas and willing to appropriately challenge the status quo.
+- **Ambition** and Initiative | Demonstrates personal drive without needing recognition or reward. When there is downtime, finds a productive task. Exhibits a bias for action with a strong will to accomplish task with excellence.
+#### Areas of Growth
+- One
+- Two
+- Three
