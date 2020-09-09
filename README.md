@@ -1,6 +1,6 @@
 # reading-notes
 
-## Growth Mindset is keeping the door to your subconcious open at **all** times
+## Growth Mindset is keeping the door to your subconscious open at **all** times
 - Giving up is eaiser with more excuses
 - Remember there are always a million reasons not to do something
 - Always allow your creativity to flourish
