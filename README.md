@@ -33,5 +33,5 @@
 - cd.. - back up one level
 - cd../cc - back up two levels
 - mkdir - create new folder - ex. *mkdir home*
-- touch - create new file - ex. *toch homefile*
+- touch - create new file - ex. *touch homefile*
 
