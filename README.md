@@ -25,3 +25,13 @@
 - **Confidence** | I tend to not be the most confident person in the world. While I continue to always push myself to experience new things, I sometimes tend to find comfort in what is familiar. If I struggle learning or understanding something, it is easy for me to snowball on myself and feel my confidence dwindle.
 - **Technical** | Being almost fully right brained, math and "exact science" never seems to fully agree with me. While technology in general is something I am very comfortable with, really following exact steps to achieve an end goal and not let my creativity take over can be a struggle at times. Also, specific to this definition, I have yet to learn to code, so I won't claim to deliver high quality software that is written with pride, great skill and careful attention (yet).
 - **Speaking** | In tandem with my confidence struggles, speaking is one that take a lot of extra effort for me. As an introvert, I am far more comfortable listening than speaking, but it something I always remind myself to do, even if its outside of my usual box.
+
+### Cheat Sheet for Commands
+- ls - (list) see inside a folder - ex. *ls **folder name*
+- pwd - locate exact file path / location within terminal
+- cd - change directories
+- cd.. - back up one level
+- cd../cc - back up two levels
+- mkdir - create new folder - ex. *mkdir home*
+- touch - create new file - ex. *toch homefile*
+
