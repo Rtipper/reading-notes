@@ -18,13 +18,13 @@
 
 ### Professional Competencies
 #### Areas of Strength
-- **Creative** | Being creative is one of my biggest goals in life. Everything I get to put my hands on, digitally or physically, I love taking and changing to match my own imagination and desire for it to stand out and be unique to myself.
-- **Writing** | Having worked as a professional and self-published writer, I feel this is my number two area of strength. Writing has not only come very natural to me since a young age, but it has turned into one of my most passionate hobbies and professional skills.
-- **Ambition and Initiative** | As someone who has too many hobbies to count, ambition and initiative drive me through my current stages of life with ease. I usually always have to be working on a task or project and often bounce between them at multiple times, all the while only looking to achieve them for myself.
+- **Creative** - Being creative is one of my biggest goals in life. Everything I get to put my hands on, digitally or physically, I love taking and changing to match my own imagination and desire for it to stand out and be unique to myself.
+- **Writing** - Having worked as a professional and self-published writer, I feel this is my number two area of strength. Writing has not only come very natural to me since a young age, but it has turned into one of my most passionate hobbies and professional skills.
+- **Ambition and Initiative** - As someone who has too many hobbies to count, ambition and initiative drive me through my current stages of life with ease. I usually always have to be working on a task or project and often bounce between them at multiple times, all the while only looking to achieve them for myself.
 #### Areas of Growth
-- **Confidence** | I tend to not be the most confident person in the world. While I continue to always push myself to experience new things, I sometimes tend to find comfort in what is familiar. If I struggle learning or understanding something, it is easy for me to snowball on myself and feel my confidence dwindle.
-- **Technical** | Being almost fully right brained, math and "exact science" never seems to fully agree with me. While technology in general is something I am very comfortable with, really following exact steps to achieve an end goal and not let my creativity take over can be a struggle at times. Also, specific to this definition, I have yet to learn to code, so I won't claim to deliver high quality software that is written with pride, great skill and careful attention (yet).
-- **Speaking** | In tandem with my confidence struggles, speaking is one that take a lot of extra effort for me. As an introvert, I am far more comfortable listening than speaking, but it something I always remind myself to do, even if its outside of my usual box.
+- **Confidence** - I tend to not be the most confident person in the world. While I continue to always push myself to experience new things, I sometimes tend to find comfort in what is familiar. If I struggle learning or understanding something, it is easy for me to snowball on myself and feel my confidence dwindle.
+- **Technical** - Being almost fully right brained, math and "exact science" never seems to fully agree with me. While technology in general is something I am very comfortable with, really following exact steps to achieve an end goal and not let my creativity take over can be a struggle at times. Also, specific to this definition, I have yet to learn to code, so I won't claim to deliver high quality software that is written with pride, great skill and careful attention (yet).
+- **Speaking** - In tandem with my confidence struggles, speaking is one that take a lot of extra effort for me. As an introvert, I am far more comfortable listening than speaking, but it something I always remind myself to do, even if its outside of my usual box.
 
 ### Cheat Sheet for Commands
 - ls - (list) see inside a folder - ex. *ls **folder name*
