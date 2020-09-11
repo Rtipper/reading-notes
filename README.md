@@ -35,3 +35,23 @@
 - mkdir - create new folder - ex. *mkdir home*
 - touch - create new file - ex. *touch homefile*
 
+### Revisions and the Cloud
+- Localized Version Control (VCS) - A Local VCS entails one database on your hard disk that stores changes to files.
+- Centralized Version Control (CVS) - This system entails a single server storing all changes and file versions, which can be accessed by various clients, allowing programmers to have more knowledge of team members’ activities with certain files
+- Distributed Version Control - If a CVS goes down, collaborators cannot work with each other on a file or save changes and new versions. To prevent this type of catastrophic loss, a DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information.
+- Snapshots - Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it.
+- Local Operations - Git mostly relies on local operations allowing one to continue work on a project even when not online or on a VPN.
+- Tracking Changes - Git will always detect file corruption or loss of information in transit.
+- States - Files in Git can reside in three main states: committed (Data is securely stored in a local database), modified (File has been changed but not committed to the database) and staged (Flagged a file’s changed version to be committed in the next snapshot).
+- Local Repository Structure - The local Git repository has three components: Working Directory (The actual files reside here), Index (The area used for staging) and Head (Points to the most recent commit)
+- Tracked files can be modified, unmodified, or staged; they were part of the most recent file snapshot.
+- Untracked files were not in the last snapshot and do not currently reside in the staging area.
+- To determine the state of files, utilize the git status command: $ git status
+- Track one file only by using the following format: git add filename
+- Track all files in a repository by using the following command: $ git add *
+- After staging one or multiple files, you should commit the changes and record what you did within the commit message: $ git commit -m “made change x,y,z”
+- Committing All Changes: $ git commit -a
+- Push changes to a remote repository: $ git push origin master
+- 
+
+
