@@ -52,6 +52,5 @@
 - After staging one or multiple files, you should commit the changes and record what you did within the commit message: $ git commit -m “made change x,y,z”
 - Committing All Changes: $ git commit -a
 - Push changes to a remote repository: $ git push origin master
-- 
 
 
