@@ -13,3 +13,5 @@
 - [Class 3 Reading Notes](class3.md)
 - [Class 3 Stretch Goals](class3.1.md)
 - [Class 4 Reading Notes](class4.md)
+- [Class 5 Reading Notes](class5.md)
+
