@@ -1,4 +1,4 @@
-# Class 6 Notes _ JS Exercise
+# Class 6 Notes - JS Exercise
 
 ### Summary of Section
 - It is best to keep JavaScript code in its own JavaScript
