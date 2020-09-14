@@ -15,3 +15,5 @@
 - [Class 4 Reading Notes](class4.md)
 - [Class 5 Reading Notes](class5.md)
 - [Class 6 Reading Notes](class6.md)
+- [Class 6 pt2 Reading Notes](class6.2.md)
+
