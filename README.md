@@ -17,3 +17,4 @@
 - [Class 6 Reading Notes](class6.md)
 - [Class 6 pt2 Reading Notes](class6.2.md)
 - [Class 7 Reading Notes](class7.md)
+- [Class 8 Reading Notes](class8.md)
