@@ -24,6 +24,7 @@
 
 ## Table of Contents
 *links to follow*
+- [PreClass Reading Notes](preclass.md)
 - Class 1
 - Class 2
 - Class 3
