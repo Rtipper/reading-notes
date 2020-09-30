@@ -25,8 +25,7 @@
 ## Table of Contents
 *links to follow*
 - [PreClass Reading Notes](preclass.md)
-- Class 1
-- Class 2
+- [Class 02 Reading Notes](class-02.md)
 - Class 3
 - Class 4
 - Class 5
